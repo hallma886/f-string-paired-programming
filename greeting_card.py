@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Matthew hall
+# September 10, 2024
 # f-String Greeting Card 
 
 '''
@@ -19,3 +19,13 @@ Directions:
 
 6. Execute (run) your script in Visual Studio Code and correct any errors.
 '''
+ # Ask please enter your First name.
+first_name = input('please enter your first name: (Example:Michael)\n')
+print(f'welcome: {first_name}')
+
+# Ask what is the occasion
+occasion = input('please enter the occasion\n')
+print(f'were happy to help you with your {occasion}')
+
+# custom message
+print("welcome to your new job at Circus Baby's Pizza World")

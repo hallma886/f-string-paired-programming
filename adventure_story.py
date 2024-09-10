@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Trent Duncan
+# 9/10/24
 # f-String Adventure Story
 
 '''
@@ -21,3 +21,19 @@ Directions:
 
 6. Execute (run) your script in Visual Studio Code and correct any errors.
 '''
+
+# heros first name
+
+hero_name= input("what is your hero's name?")
+
+print(f'so your journy starts your name {hero_name}')
+
+# setting of the story
+
+setting= input('where does this story take place?')
+
+print(f' so {hero_name} your journy starts at {setting}')
+
+# found object
+
+object_found= input('what item did you find as you were exploring?')
