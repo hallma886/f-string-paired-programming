@@ -37,3 +37,5 @@ print(f' so {hero_name} your journy starts at {setting}')
 # found object
 
 object_found= input('what item did you find as you were exploring?')
+
+print(f'while {hero_name} was exploring {setting} they stubbled acrossed {object_found}')
